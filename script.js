@@ -69,7 +69,7 @@ for (let i = 0; i < son; i++) {
 
         
     }
-    console.log(start);
+    console.log(starts);
     starts= " "
     
 }
